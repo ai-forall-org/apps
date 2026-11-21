@@ -14,7 +14,8 @@ Prefer in-app downloads: [Tools → Desktop](https://tools.ai-forall.org/desktop
 
 ### Media Translate — v0.1.0
 
-- Coming soon (build in progress)
+- [Windows](https://github.com/ai-forall-org/apps/raw/main/desktop/media-translate/Media.Translate_0.1.0_x64-setup.exe)
+- [Mac (Apple Silicon)](https://github.com/ai-forall-org/apps/raw/main/desktop/media-translate/Media.Translate_0.1.0_aarch64.dmg)
 
 ### AI Powered Anti-Virus — v0.1.1
 
